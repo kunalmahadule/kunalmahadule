@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Python, Machine Learning, Deep Learning, Gen-AI, Prompt Engineering**
 - 👯 I’m looking to collaborate on **AI/ML Open-Source Projects**
 - 💬 Ask me about **Data Science, Machine Learning, and AI**
-- 📫 How to reach me **kunalmahadule77@gmail.com**
+- 📫 How to reach me **kunalmahadule.ds@gmail.com**
 - ⚡ Fun fact **I am always eager to learn new things! 😎**
 
 ---
