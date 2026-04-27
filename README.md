@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Mahadule</h1>
-<h3 align="center">A Passionate Data Scientist from India</h3>
+<h3 align="center">Data Scientist from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
